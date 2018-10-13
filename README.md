@@ -1,2 +1,2 @@
 # ASHK
-Styles Management Application
+Stylist Discovery Network 
