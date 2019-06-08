@@ -1,2 +1,1 @@
 # ASHK
-Stylist Discovery Network 
